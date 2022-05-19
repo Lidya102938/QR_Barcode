@@ -1,0 +1,27 @@
+*{
+    width: 1440px;
+    font-family: outfit;
+}
+
+.kotak{
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 800px;
+    height: 500px;
+    background-color: hsl(220, 15%, 55%);
+}
+
+.container{
+    margin-top: -400px;
+    margin-left: 590px;
+    width: 230px;
+    height: 350px;
+    background-color:  hsl(0, 0%, 100%)
+}
+
+img{
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 200px;
+    width: 200px;
+}
